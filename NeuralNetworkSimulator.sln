@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuralNetworkSimulator", "NeuralNetworkSimulator\NeuralNetworkSimulator\NeuralNetworkSimulator.csproj", "{22CC9D39-19EA-4629-A9CD-1CDD05703F7E}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "NeuralNetworkSimulatorContent", "NeuralNetworkSimulator\NeuralNetworkSimulatorContent\NeuralNetworkSimulatorContent.contentproj", "{547154B2-EC3A-4C2A-990D-BEA3487C2DFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22CC9D39-19EA-4629-A9CD-1CDD05703F7E}.Debug|x86.ActiveCfg = Debug|x86
+		{22CC9D39-19EA-4629-A9CD-1CDD05703F7E}.Debug|x86.Build.0 = Debug|x86
+		{22CC9D39-19EA-4629-A9CD-1CDD05703F7E}.Release|x86.ActiveCfg = Release|x86
+		{22CC9D39-19EA-4629-A9CD-1CDD05703F7E}.Release|x86.Build.0 = Release|x86
+		{547154B2-EC3A-4C2A-990D-BEA3487C2DFB}.Debug|x86.ActiveCfg = Debug|x86
+		{547154B2-EC3A-4C2A-990D-BEA3487C2DFB}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
